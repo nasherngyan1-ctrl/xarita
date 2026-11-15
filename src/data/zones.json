@@ -1,0 +1,37 @@
+[
+  {
+    "driverId": "hama",
+    "color": "#06b6d4",
+    "startAngle": 0,
+    "endAngle": 72,
+    "sectorName": "North-East Sector (Qalat to 150m)"
+  },
+  {
+    "driverId": "rozh",
+    "color": "#ef4444",
+    "startAngle": 72,
+    "endAngle": 144,
+    "sectorName": "South-East Sector (Qalat to 150m)"
+  },
+  {
+    "driverId": "usama",
+    "color": "#f59e0b",
+    "startAngle": 144,
+    "endAngle": 216,
+    "sectorName": "South-West Sector (Qalat to 150m)"
+  },
+  {
+    "driverId": "dyar",
+    "color": "#8b5cf6",
+    "startAngle": 216,
+    "endAngle": 288,
+    "sectorName": "North-West Sector (Qalat to 150m)"
+  },
+  {
+    "driverId": "basit",
+    "color": "#10b981",
+    "startAngle": 288,
+    "endAngle": 360,
+    "sectorName": "North Sector (Qalat to 150m)"
+  }
+]

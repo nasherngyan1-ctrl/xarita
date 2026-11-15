@@ -1,0 +1,47 @@
+[
+  {
+    "id": "hama",
+    "name": "Hama",
+    "color": "#06b6d4",
+    "startAngle": 0,
+    "endAngle": 72,
+    "phone": "+964 750 444 5566",
+    "vehicle": "Chevrolet Cruze (Red)"
+  },
+  {
+    "id": "rozh",
+    "name": "Rozh",
+    "color": "#ef4444",
+    "startAngle": 72,
+    "endAngle": 144,
+    "phone": "+964 750 111 2233",
+    "vehicle": "Kia Rio (White)"
+  },
+  {
+    "id": "usama",
+    "name": "Usama",
+    "color": "#f59e0b",
+    "startAngle": 144,
+    "endAngle": 216,
+    "phone": "+964 750 222 3344",
+    "vehicle": "Hyundai Elantra (Silver)"
+  },
+  {
+    "id": "dyar",
+    "name": "Dyar",
+    "color": "#8b5cf6",
+    "startAngle": 216,
+    "endAngle": 288,
+    "phone": "+964 750 555 6677",
+    "vehicle": "Nissan Sunny (Grey)"
+  },
+  {
+    "id": "basit",
+    "name": "Basit",
+    "color": "#10b981",
+    "startAngle": 288,
+    "endAngle": 360,
+    "phone": "+964 750 333 4455",
+    "vehicle": "Toyota Corolla (Black)"
+  }
+]

@@ -1,0 +1,6 @@
+{
+  "name": "Hawler Delivery Management System",
+  "description": "Professional delivery and driver management system for Erbil (Hawler) with 5 drivers, 150m boundary, pie-sector zones, verified neighborhoods, and Leaflet maps.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
